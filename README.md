@@ -1,49 +1,36 @@
-# Getting Started with POSWeb
-npm start in cmd and you'll get this Home page
-And then you've read now !!
+# Frontend
 
-![Home_ProductManagement](https://github.com/user-attachments/assets/95560bfd-a0f7-4c1e-9e7f-2dbaa2b9f1a2)
+## MusicMate Web 
 
-## You can do CRUD by this method
+เปิด Folder Frontend ติดตั้ง npm i เพื่อทำการรันไฟล์ Frontend แล้วใช้คำสั่ง npm start เพื่อรัน Program หลังจากนั้นจะปรากฏ
 
-### -Create
-Click on Create New button
+![1](https://github.com/user-attachments/assets/f7ad0442-25db-4340-84f1-8ee347001d86)
 
-![GoToCreate](https://github.com/user-attachments/assets/2e1d04e4-4562-4ab0-a859-3743779ff128)
+โดยเราสามารถใส่ข้อมูลไปได้โดย กดที่สีเขียว Create New 
 
-Enter your information you want
+![2](https://github.com/user-attachments/assets/60bb2d74-475f-4baf-bd77-cd6377c63d01)
 
-![CreateAndSubmit](https://github.com/user-attachments/assets/13011149-31cd-4fcf-9d35-6bb6ac3d4787)
+จากนั้นก็กรอกข้อมูล แล้วกด Submit ปุ่มสีน้ำเงิน จะแสดงหน้าจอแบบรูปถัดไป
 
-You've created product now !!
-![ProductCreated](https://github.com/user-attachments/assets/fa6b3589-8bed-451b-851e-03b398d7d31d)
+![3](https://github.com/user-attachments/assets/bcd654db-29b5-44e6-9a1e-09f54221afb2)
 
-### -Update
-Click on edit button, let's update Test!
+หากต้องการแก้ไขให้กดปุ่ม Edit สีเหลือง 
 
-![Edit](https://github.com/user-attachments/assets/e229066a-85ee-4071-a9d4-0c3782520f21)
+![4](https://github.com/user-attachments/assets/16f09482-8c76-4a53-a4a2-d11e242fa7b5)
 
-Edit your infomation as you want, and then submit!
+จากนั้นจะขึ้นข้อมูลให้คุณแก้ไข แล้วกด Update ปุ่มสีน้ำเงิน 
 
-![Update](https://github.com/user-attachments/assets/a51b724b-c06f-4920-9a1f-493065f8238c)
+![5](https://github.com/user-attachments/assets/65754e73-5f75-490a-82e9-00b1cfa62247)
 
-And now you've updated yor information now!!
-![Updated](https://github.com/user-attachments/assets/01fc877c-6953-4635-986b-e8e87f8847e8)
+ข้อมูลจะมีการแก้ไขและอัพเดทใหม่ดังรูปสังเกตที่ American แต่หากต้องการลบให้กดปุ่ม Delete สีแดง
 
-### -Delete
-Let's click on delete button, and confirm to delete!
-![Delete](https://github.com/user-attachments/assets/6615dff8-0459-4e63-87aa-1d67de9b627a)
+![6](https://github.com/user-attachments/assets/27d9236f-1489-4666-a432-971b3954476a)
 
-And now you've delete Ichitan!!
+จะขึ้นหน้าต่างนี้มาให้และให้คุณกด ok ถ้าคุณต้องการลบ 
 
-![Deleted](https://github.com/user-attachments/assets/77405ab3-c52a-4a13-8f23-025eeae12453)
+![image](https://github.com/user-attachments/assets/3d7a1c93-5f7e-4ae0-bc2e-5ce476599361)
 
-
-
-
-
-
-
+จากนั้นข้อมูลในบรรทัดที่คุณลบจะหายไป
 
 
 
